@@ -1,0 +1,49 @@
+{
+  "term": "Spring",
+  "year": "2017",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Society",
+      "African American Studies"
+    ],
+    [
+      "Social Science",
+      "Political Science",
+      "American Politics"
+    ]
+  ],
+  "legacy_uid": "c6e3ba56-4951-79ff-0e85-f9abc9fc5ed2",
+  "instructors": {
+    "content": [
+      "8f5ac48e-825a-f618-1962-7692fb37c5dc"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "7429f303-7bfe-04f6-247c-c8dfef0aee33",
+    "website": "17-269-race-ethnicity-and-american-politics-spring-2017"
+  },
+  "course_title": "Race, Ethnicity, and American Politics",
+  "course_description": "This course explores the role of race and ethnicity in modern American politics. It focuses on social science approaches to measuring the effects of race, both at the individual level and more broadly. Topics include race and representation, measurement of racial and ethnic identities, voting rights and electoral districting, protest and other forms of political participation, and the meaning and measurement of racial attitudes.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "17.269",
+  "course_image_thumbnail": {
+    "content": "59417784-47a2-14bd-4f20-2d4cbd0a4a0e",
+    "website": "17-269-race-ethnicity-and-american-politics-spring-2017"
+  },
+  "learning_resource_types": [
+    "Written Assignments with Examples",
+    "Exams",
+    "Instructor Insights"
+  ],
+  "site_uid": "0f0fe245-c39c-4116-83ce-ad6fa9b87763",
+  "site_short_id": "17.269-spring-2017",
+  "site_url_path": "courses/17-269-race-ethnicity-and-american-politics-spring-2017",
+  "title": "Course Metadata"
+}

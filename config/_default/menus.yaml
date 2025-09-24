@@ -1,0 +1,36 @@
+leftnav:
+- identifier: 7c98ee21-92af-0fdc-27b4-6dbec03bb4bf
+  name: Syllabus and Calendar
+  pageRef: /pages/syllabus-and-calendar
+  weight: 10
+- identifier: d27a77b2-f718-69f2-d927-fd60d4e96eb9
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 20
+- identifier: 6a83b515-7e63-7a3f-5a70-f23981278e98
+  name: Inspiration for the Course
+  pageRef: /pages/instructor-insights/inspiration-for-the-course
+  parent: d27a77b2-f718-69f2-d927-fd60d4e96eb9
+  weight: 30
+- identifier: 9495f54b-0a50-9f45-88b0-f0180267b632
+  name: Facilitating Talk about Race and Ethnicity
+  pageRef: /pages/instructor-insights/facilitating-talk-about-race-and-ethnicity
+  parent: d27a77b2-f718-69f2-d927-fd60d4e96eb9
+  weight: 40
+- identifier: 7155415f-b0e7-588e-4de0-e78d9a0d94ba
+  name: Fostering Intuition about Social Science
+  pageRef: /pages/instructor-insights/fostering-intuition-about-social-science
+  parent: d27a77b2-f718-69f2-d927-fd60d4e96eb9
+  weight: 50
+- identifier: 484322fb-a1c3-74e2-488b-098509faf27d
+  name: Readings
+  pageRef: /pages/readings
+  weight: 60
+- identifier: 7fec3e98-1db8-d0bc-5a9f-647d8404de96
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 70
+- identifier: ab78e96d-23dd-2727-175d-a8f0d2d7a82a
+  name: Exams
+  pageRef: /pages/exams
+  weight: 80
