@@ -70,7 +70,7 @@ During an average week, students were expected to spend 12 hours on the course, 
 
 - Met 2 times per week for 1.5 hours per session; 26 sessions total.
 - Class sessions were discussion-based, and some included reading quizzes.
-- During the final module of the course, students watched a screening of the film “{{% resource_link "6c6dc684-e05b-4831-9744-badad53641fb" "*13th*" %}}”, directed by Ava Duvernay (2016).
+- During the final module of the course, students watched a screening of the film “[*13th*](https://www.imdb.com/title/tt5895028/?ref_=fn_al_tt_3)”, directed by Ava Duvernay (2016).
 
 ### Out of Class
 

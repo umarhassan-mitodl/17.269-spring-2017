@@ -5,6 +5,8 @@ description: This resource contains information regarding Race and Ethnicity Que
 file: /courses/17-269-race-ethnicity-and-american-politics-spring-2017/d7bda8140d431c931b4299e5a2cd5257_MIT17_269S17_RaceEthnicity.pdf
 file_size: 730919
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

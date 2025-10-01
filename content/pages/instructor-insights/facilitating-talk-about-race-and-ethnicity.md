@@ -3,6 +3,8 @@ content_type: page
 description: In this section, Professor Ariel White shares some of the strategies
   she used to prepare students to engage in conversations about race and ethnicity
   in the course.
+hide_download: true
+hide_download_original: null
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
